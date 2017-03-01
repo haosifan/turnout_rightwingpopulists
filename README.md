@@ -4,3 +4,4 @@ The analyse.R-scripts generates scatterplots via ggplot2.
 The gfx_europe.R-script generates a grid-graph from all of these graphics.
 The "wanderungen"-folder contains the data for vote-shifting between parties in all federal-state-elections in Germany in 2016. The script generates a bar-graph showing the percentage of votes, the AfD got from all other parties.
 The data was used in two articles. you can find them under the following links.
+ -- Links will be added soon --
